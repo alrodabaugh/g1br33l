@@ -1,0 +1,50 @@
+body { background-color: #0e0263; margin-bottom: 0px; margin-right: 0; margin-left: 0; margin-top: 0; padding-top: 0; height: 100%; color: #002c66; line-height: 120%; 
+background-image: url('images/background.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 0px 100%; font-family: arial, helvetica, sans; font-size: 0.8em }
+A:link {
+	COLOR: red; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #0000b0; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0000b0; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: #FFE0FF; COLOR: #0000b0; TEXT-DECORATION: underline; 
+}
+a.pink:hover {
+	BACKGROUND: #9900FF; TEXT-DECORATION: underline; 
+}
+P {
+	TEXT-INDENT: 0px
+}
+.heading { text-align: center; font-family: times, "times new roman", serif; color: #7f00ff; font-size: 24pt; line-height: 22px; letter-spacing: 2px; word-spacing: 2pt; }
+.subheading { margin-bottom: 0pt;  text-align: center; font-family: times, "times new roman", serif; color: #7f00ff; font-size: 18pt; line-height: 22px; letter-spacing: 1px; word-spacing: 5pt; }
+.toptext { text-align: justify; font-family: times, "times new roman", serif; color: #7f00ff; font-size: 25px; font-style: italic; line-height: 27px; padding-left: 45px; padding-right: 45px; }
+.text { text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 12pt; line-height: 22px; }
+.textlink { text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 12pt; font-weight: 600; line-height: 16px; padding-left: 30pt; }
+.mainlink { text-align: center; font-family: times, "times new roman", serif; color: #7f00ff; font-size: 19px; line-height: 20px; margin-bottom: 0pt; margin-top: 10pt; }
+.sublink{ text-align: center; font-family: times, "times new roman", serif; color: #7f00ff; font-size: 15px; line-height: 16px; margin-bottom: 3pt; margin-top: 3pt; padding-left: 15px; padding-right: 15px; }
+h1 {margin-top: 0.1em; margin-bottom: 0em; font-size: 2.3em; font-variant: SMALL-caps; line-height: 110%; text-align: center; font-weight: 400; color: #ffaf11; font-family: "Courier New", Couier}
+h2 {black 0.1em 0.1em 0.2em; font-family: "Courier New", Courier; font-size: 1.6em; font-variant: SMALL-caps; color: #ffaf11; text-align: center; margin-top: 0.5em; line-height: 120%; margin-bottom: 0.8em; }
+h3 {font-family: "Courier New", Courier; font-size: 1.4em; font-variant: SMALL-caps; color: #ffaf11; text-align: center; margin-bottom: 0em}
+h4 {font-family: "Times New Roman", Times; font-size: 1.1em; color: #ffaf11; text-align: center; line-height: 18px; font-weight: 400; }
+h5 {font-family: "Times New Roman", Times; font-size: 1.6em; font-variant: SMALL-caps; color: #ffaf11; text-align: center; margin-top: 0.5em; line-height: 120%; margin-bottom: 0.8em; }
+.heading {font-family: "Times New Roman", Times; font-size: 1.3em; text-align: left; margin-bottom: 0.6em; margin-top: 1.6em; }
+.text { margin-top: 0px; margin-bottom: 1.5em; margin-left: 10%; margin-right: 10%; text-align: justify; font-weight: 300; font-size: 10pt; line-height: 120%; color: #3A6BF2;  }
+.text1 { margin-left: 15%; margin-right: 15%; margin-top: 13pt; margin-bottom: 0pt; font-weight: 600; text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 12pt; line-height: 22px; }
+.text2 { margin-left: 17%; margin-right: 15%; margin-top: 0pt; margin-bottom: 6pt; text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 11pt; line-height: 22px; }
+.text3 { margin-top: 0pt; margin-bottom: 6pt; text-align: justify; font-family: arial, helvetica, sans; color: #0000b0; font-size: 10pt; line-height: 18px; }
+.text4 { margin-left: 18%; margin-right: 15%; margin-top: 0pt; margin-bottom: 6pt; text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 8pt; line-height: 22px; }
+.bold { font-weight: 600; }
+.text5 { margin-top: 0pt; margin-bottom: 6pt; font-weight: 600; text-align: justify; font-family: Garamond, Times New Roman, Times; color: #0000b0; font-size: 12pt; line-height: 20px; }
+.text6 { margin-top: 0pt; margin-bottom: 6pt; text-align: justify; font-family: Times New Roman, Times, helvetica; color: #0000b0; font-size: 12pt; line-height: 20px; }
+.text7 { margin-top: 0pt; margin-bottom: 6pt; text-align: justify; font-family: Times New Roman, Times, helvetica; color: #D215D2; font-size: 12pt; line-height: 20px; }
+.text8 { margin-top: 0pt; margin-bottom: 6pt; text-align: center; font-family: Times New Roman, Times, helvetica; color: #0000b0; font-size: 12pt; line-height: 20px; }
+.text9 { margin-left: 6pt; margin-right: 6pt; margin-top: 13pt; margin-bottom: 0pt; font-weight: 600; text-align: justify; font-family: arial, helvetica, sans; color: #7f00ff; font-size: 12pt; line-height: 18px; }
+.infoTable { margin-top: 4em; margin-bottom: 2em; border-color : #330099; background-color: #F7F7FF; border-style: solid; border-top-width : 1px; border-bottom-width : 1px;  border-left-width : 1px;  border-right-width: 1px; padding-right : 1em;  padding-left : 1em; padding-top : 0.8em; padding-bottom : 0.8em; width: 100%;   }
+.bLink { font-size: 0.8em; }
+
+#rayHeading {border-left:0px solid #ffffff; border-right:0px solid #ffffff; border-top:0px solid #ffffff; border-bottom:2px solid #ffffff; font-family: "Times New Roman", Times; font-size: 1.8em; text-align: left; margin-bottom: 0.5em; margin-top: 1.5em; font-weight: 600; margin-right: 13% }
+.rayBox {border-left:1px solid #cccccc; border-right:0px solid #cccccc; border-top:0px solid #cccccc; border-bottom:0px solid #cccccc; background-repeat: no-repeat; padding-top: 0.5em; padding-left: 3em; padding-right: 3em; padding-bottom: 3em; margin-top: 4em }
+#rayViolet {background-image: url('http://www.ascension-research.org/images/ray-bg-violet.jpg'); }
